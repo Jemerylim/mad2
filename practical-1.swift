@@ -14,6 +14,7 @@ while (x <= 20) {
 }
 
 //Exercise 3
+//Example 1
 var total = 0
 for index in 1...20{
   if index % 2 == 1 {
